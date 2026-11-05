@@ -114,7 +114,6 @@ paras_pandey
 $ cat about.txt
 ┌────────────────────────────────────────────────────────┐
 │ studying   : 3rd-year B.Tech, IIIT Allahabad           │
-│ role       : Placement Representative                  │
 │ into       : DSA, competitive programming, CS core     │
 │ building   : CLI tools, ML from scratch                │
 │ contribute : open source                               │
@@ -141,6 +140,8 @@ md += f"""
 ```text
 [in]  linkedin.com/in/paraspandeydev
 [gh]  github.com/{U}
+[college email]  iit2024235@iiita.ac.in
+[work email]     paraspandey806@gmail.com
 ```
 
 <sub>auto-generated from the GitHub API · {now}</sub>
