@@ -43,9 +43,20 @@ $ cat about.txt
 ```text
 ┌───────────────────┬───────────────────┐
 │ repos       50    │ followers   17    │
-│ stars       6     │ following   15    │
+│ stars       7     │ following   15    │
 │ on GitHub   2.2y  │ updated  11-05    │
 └───────────────────┴───────────────────┘
+```
+
+### `$ github --languages`
+
+```text
+JavaScript        ██████░░░░░░░░░░░░░░░░░░  25.0%
+C++               █████░░░░░░░░░░░░░░░░░░░  20.0%
+Python            ████░░░░░░░░░░░░░░░░░░░░  15.0%
+TypeScript        ████░░░░░░░░░░░░░░░░░░░░  15.0%
+Shell             █░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+Go                █░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 ```
 
 ### `$ github --top-repos`
@@ -54,9 +65,27 @@ $ cat about.txt
 ╔══════════════════════╦══════════════════╦═══════╦══════════════════════════════════════════════╗
 ║ REPO                 ║ LANG             ║ STAR  ║ ABOUT                                        ║
 ╠══════════════════════╬══════════════════╬═══════╬══════════════════════════════════════════════╣
-║ Relay                ║ Go               ║ ★ 5   ║ Terminal-native download manager             ║
-║ nn-from-zero         ║ Jupyter Notebook ║ ★ 1   ║ Neural net from scratch in NumPy             ║
+║ Relay                ║ Go               ║ ★ 5   ║ Relay is a terminal-native download manager  ║
+║ Kronos               ║ TypeScript       ║ ★ 1   ║ Kronos : Light weight task orchestrator      ║
+║ nn-from-zero         ║ Jupyter Notebook ║ ★ 1   ║ Build a Neural Network from scratch in Pytho ║
+║ Paraspandey-debugs   ║ Python           ║ ★ 0   ║ Config files for my GitHub profile.          ║
+║ Automated-Road-Potho ║ -                ║ ★ 0   ║ Given a road-surface image, (1) decide wheth ║
+║ Prolette             ║ JavaScript       ║ ★ 0   ║ Pronunciation Roulette                       ║
 ╚══════════════════════╩══════════════════╩═══════╩══════════════════════════════════════════════╝
+```
+
+### `$ github --activity`
+
+```text
+506 contributions in the last year
+
+Sun ··░··▓·▒▒··········░░·░░▓·······░░···░·░··░░······░··
+Mon ·░░····░·░········░·····░░░······░·················░·
+Tue ·░░····░·░········░·░·········░··░·░···░▒····░·····░░
+Wed ·░········░·······░░·····░····░·░░█····░·░···░·······
+Thu ░·····░░░░········░░··█░·········▒░····▒░▒···░░····░░
+Fri ······▓▒·░··░·····░░···▓░········░░··░·░▒··········· 
+Sat ······▒░·····░·░··▒░··░░···········░░·░···░·······░· 
 ```
 
 ### `$ contact`
@@ -66,4 +95,4 @@ $ cat about.txt
 [gh]  github.com/Paraspandey-debugs
 ```
 
-<sub>auto-generated from the GitHub API · 2026-11-05 08:14 UTC</sub>
+<sub>auto-generated from the GitHub API · 2026-11-05 08:19 UTC</sub>
