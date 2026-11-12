@@ -50,12 +50,12 @@ $ cat about.txt
 ### `$ github --languages`
 
 ```text
-JavaScript        ██████░░░░░░░░░░░░░░░░░░  25.0%
-C++               █████░░░░░░░░░░░░░░░░░░░  20.0%
-Python            ████░░░░░░░░░░░░░░░░░░░░  15.0%
-TypeScript        ████░░░░░░░░░░░░░░░░░░░░  15.0%
-Shell             █░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-Go                █░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+JavaScript        ██████░░░░░░░░░░░░░░░░░░  23.8%
+Python            █████░░░░░░░░░░░░░░░░░░░  19.0%
+C++               █████░░░░░░░░░░░░░░░░░░░  19.0%
+TypeScript        ███░░░░░░░░░░░░░░░░░░░░░  14.3%
+Shell             █░░░░░░░░░░░░░░░░░░░░░░░   4.8%
+Go                █░░░░░░░░░░░░░░░░░░░░░░░   4.8%
 ```
 
 ### `$ github --top-repos`
@@ -67,8 +67,8 @@ Go                █░░░░░░░░░░░░░░░░░░░�
 ║ Relay                ║ Go               ║ ★ 5   ║ Relay is a terminal-native download manager  ║
 ║ Kronos               ║ TypeScript       ║ ★ 1   ║ Kronos : Light weight task orchestrator      ║
 ║ nn-from-zero         ║ Jupyter Notebook ║ ★ 1   ║ Build a Neural Network from scratch in Pytho ║
+║ Automated-Road-Potho ║ Python           ║ ★ 0   ║ Given a road-surface image, (1) decide wheth ║
 ║ Paraspandey-debugs   ║ Python           ║ ★ 0   ║ Config files for my GitHub profile.          ║
-║ Automated-Road-Potho ║ -                ║ ★ 0   ║ Given a road-surface image, (1) decide wheth ║
 ║ Prolette             ║ JavaScript       ║ ★ 0   ║ Pronunciation Roulette                       ║
 ╚══════════════════════╩══════════════════╩═══════╩══════════════════════════════════════════════╝
 ```
@@ -76,13 +76,13 @@ Go                █░░░░░░░░░░░░░░░░░░░�
 ### `$ github --activity`
 
 ```text
-504 contributions in the last year
+507 contributions in the last year
 
 Sun ·░··▓·▒▒··········░░·░░▓·······░░···░·░··░░······░···
 Mon ░░····░·░········░·····░░░······░·················░·░
 Tue ░░····░·░········░·░·········░··░·░···░▒····░·····░░·
-Wed ░········░·······░░·····░····░·░░█····░·░···░········
-Thu ·····░░░░········░░··█░·········▒░····▒░▒···░░····░░·
+Wed ░········░·······░░·····░····░·░░█····░·░·░·░········
+Thu ·····░░░░········░░··█░·········▒░····▒░▒···░░····░░░
 Fri ·····▓▒·░··░·····░░···▓░········░░··░·░▒············ 
 Sat ·····▒░·····░·░··▒░··░░···········░░·░···░·······░·· 
 ```
@@ -96,4 +96,4 @@ Sat ·····▒░·····░·░··▒░··░░···········
 [work email]     paraspandey806@gmail.com
 ```
 
-<sub>auto-generated from the GitHub API · 2026-11-12 05:21 UTC</sub>
+<sub>auto-generated from the GitHub API · 2026-11-12 19:25 UTC</sub>
