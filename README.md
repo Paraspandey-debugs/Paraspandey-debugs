@@ -43,7 +43,7 @@ $ cat about.txt
 ┌───────────────────┬───────────────────┐
 │ repos       51    │ followers   16    │
 │ stars       7     │ following   15    │
-│ on GitHub   2.3y  │ updated  11-14    │
+│ on GitHub   2.3y  │ updated  11-15    │
 └───────────────────┴───────────────────┘
 ```
 
@@ -67,8 +67,8 @@ Shell             █░░░░░░░░░░░░░░░░░░░�
 ║ Relay                ║ Go               ║ ★ 5   ║ Relay is a terminal-native download manager  ║
 ║ Kronos               ║ TypeScript       ║ ★ 1   ║ Kronos : Light weight task orchestrator      ║
 ║ nn-from-zero         ║ Jupyter Notebook ║ ★ 1   ║ Build a Neural Network from scratch in Pytho ║
-║ Automated-Road-Potho ║ TeX              ║ ★ 0   ║ Given a road-surface image, (1) decide wheth ║
 ║ Paraspandey-debugs   ║ Python           ║ ★ 0   ║ Config files for my GitHub profile.          ║
+║ Automated-Road-Potho ║ TeX              ║ ★ 0   ║ Given a road-surface image, (1) decide wheth ║
 ║ Prolette             ║ JavaScript       ║ ★ 0   ║ Pronunciation Roulette                       ║
 ╚══════════════════════╩══════════════════╩═══════╩══════════════════════════════════════════════╝
 ```
@@ -78,13 +78,13 @@ Shell             █░░░░░░░░░░░░░░░░░░░�
 ```text
 517 contributions in the last year
 
-Sun ····▓·▒▒··········░░·░░▓·······░░···░·░··░░······░···
-Mon ░░····░·░········░·····░░░······░·················░·░
-Tue ░░····░·░········░·░·········░··░·░···░▒····░·····░░·
-Wed ·········░·······░░·····░····░·░░█····░·░·░·░········
-Thu ·····░░░░········░░··█░·········▒░····▒░▒···░░····░░░
-Fri ·····▓▒·░··░·····░░···▓░········░░··░·░▒·············
-Sat ·····▒░·····░·░··▒░··░░···········░░·░···░·······░··▒
+Sun ···▓·▒▒··········░░·░░▓·······░░···░·░··░░······░····
+Mon ░····░·░········░·····░░░······░·················░·░ 
+Tue ░····░·░········░·░·········░··░·░···░▒····░·····░░· 
+Wed ········░·······░░·····░····░·░░█····░·░·░·░········ 
+Thu ····░░░░········░░··█░·········▒░····▒░▒···░░····░░░ 
+Fri ····▓▒·░··░·····░░···▓░········░░··░·░▒············· 
+Sat ····▒░·····░·░··▒░··░░···········░░·░···░·······░··▒ 
 ```
 
 ### `$ contact`
@@ -96,4 +96,4 @@ Sat ·····▒░·····░·░··▒░··░░···········
 [work email]     paraspandey806@gmail.com
 ```
 
-<sub>auto-generated from the GitHub API · 2026-11-14 17:33 UTC</sub>
+<sub>auto-generated from the GitHub API · 2026-11-15 04:20 UTC</sub>
