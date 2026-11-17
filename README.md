@@ -43,7 +43,7 @@ $ cat about.txt
 ┌───────────────────┬───────────────────┐
 │ repos       52    │ followers   16    │
 │ stars       7     │ following   15    │
-│ on GitHub   2.3y  │ updated  11-16    │
+│ on GitHub   2.3y  │ updated  11-17    │
 └───────────────────┴───────────────────┘
 ```
 
@@ -67,8 +67,8 @@ TeX               █░░░░░░░░░░░░░░░░░░░�
 ║ Relay                ║ Go               ║ ★ 5   ║ Relay is a terminal-native download manager  ║
 ║ Kronos               ║ TypeScript       ║ ★ 1   ║ Kronos : Light weight task orchestrator      ║
 ║ nn-from-zero         ║ Jupyter Notebook ║ ★ 1   ║ Build a Neural Network from scratch in Pytho ║
-║ pothole-detector-sit ║ HTML             ║ ★ 0   ║ Automated road surface pothole detection & i ║
 ║ Paraspandey-debugs   ║ Python           ║ ★ 0   ║ Config files for my GitHub profile.          ║
+║ pothole-detector-sit ║ HTML             ║ ★ 0   ║ Automated road surface pothole detection & i ║
 ║ Automated-Road-Potho ║ TeX              ║ ★ 0   ║ Given a road-surface image, (1) decide wheth ║
 ╚══════════════════════╩══════════════════╩═══════╩══════════════════════════════════════════════╝
 ```
@@ -80,7 +80,7 @@ TeX               █░░░░░░░░░░░░░░░░░░░�
 
 Sun ···▓·▒▒··········░░·░░▓·······░░···░·░··░░······░····
 Mon ░····░·░········░·····░░░······░·················░·░░
-Tue ░····░·░········░·░·········░··░·░···░▒····░·····░░· 
+Tue ░····░·░········░·░·········░··░·░···░▒····░·····░░··
 Wed ········░·······░░·····░····░·░░█····░·░·░·░········ 
 Thu ····░░░░········░░··█░·········▒░····▒░▒···░░····░░░ 
 Fri ····▓▒·░··░·····░░···▓░········░░··░·░▒············· 
@@ -96,4 +96,4 @@ Sat ····▒░·····░·░··▒░··░░···········�
 [work email]     paraspandey806@gmail.com
 ```
 
-<sub>auto-generated from the GitHub API · 2026-11-16 21:31 UTC</sub>
+<sub>auto-generated from the GitHub API · 2026-11-17 06:03 UTC</sub>
