@@ -41,7 +41,7 @@ $ cat about.txt
 
 ```text
 ┌───────────────────┬───────────────────┐
-│ repos       53    │ followers   15    │
+│ repos       54    │ followers   15    │
 │ stars       7     │ following   15    │
 │ on GitHub   2.3y  │ updated  11-26    │
 └───────────────────┴───────────────────┘
@@ -50,12 +50,12 @@ $ cat about.txt
 ### `$ github --languages`
 
 ```text
-TypeScript        ████░░░░░░░░░░░░░░░░░░░░  18.2%
-JavaScript        ████░░░░░░░░░░░░░░░░░░░░  18.2%
-C++               ████░░░░░░░░░░░░░░░░░░░░  18.2%
-Python            ███░░░░░░░░░░░░░░░░░░░░░  13.6%
-HTML              ██░░░░░░░░░░░░░░░░░░░░░░   9.1%
-TeX               █░░░░░░░░░░░░░░░░░░░░░░░   4.5%
+Python            ████░░░░░░░░░░░░░░░░░░░░  17.4%
+TypeScript        ████░░░░░░░░░░░░░░░░░░░░  17.4%
+JavaScript        ████░░░░░░░░░░░░░░░░░░░░  17.4%
+C++               ████░░░░░░░░░░░░░░░░░░░░  17.4%
+HTML              ██░░░░░░░░░░░░░░░░░░░░░░   8.7%
+TeX               █░░░░░░░░░░░░░░░░░░░░░░░   4.3%
 ```
 
 ### `$ github --top-repos`
@@ -67,22 +67,22 @@ TeX               █░░░░░░░░░░░░░░░░░░░�
 ║ Relay                ║ Go               ║ ★ 5   ║ Relay is a terminal-native download manager  ║
 ║ Kronos               ║ TypeScript       ║ ★ 1   ║ Kronos : Light weight task orchestrator      ║
 ║ nn-from-zero         ║ Jupyter Notebook ║ ★ 1   ║ Build a Neural Network from scratch in Pytho ║
+║ regrip               ║ Python           ║ ★ 0   ║ Catch breaking MCP tool changes before they  ║
 ║ Paraspandey-debugs   ║ Python           ║ ★ 0   ║ Config files for my GitHub profile.          ║
 ║ MedTour              ║ TypeScript       ║ ★ 0   ║                                              ║
-║ pothole-detector-sit ║ HTML             ║ ★ 0   ║ Automated road surface pothole detection & i ║
 ╚══════════════════════╩══════════════════╩═══════╩══════════════════════════════════════════════╝
 ```
 
 ### `$ github --activity`
 
 ```text
-543 contributions in the last year
+577 contributions in the last year
 
 Sun ··▓·▒▒··········░░·░░▓·······░░···░·░··░░······░·····
 Mon ····░·░········░·····░░░······░·················░·░░·
 Tue ····░·░········░·░·········░··░·░···░▒····░·····░░···
 Wed ·······░·······░░·····░····░·░░█····░·░·░·░··········
-Thu ···░░░░········░░··█░·········▒░····▒░▒···░░····░░░▓·
+Thu ···░░░░········░░··█░·········▒░····▒░▒···░░····░░░▓█
 Fri ···▓▒·░··░·····░░···▓░········░░··░·░▒·············░ 
 Sat ···▒░·····░·░··▒░··░░···········░░·░···░·······░··▒░ 
 ```
@@ -96,4 +96,4 @@ Sat ···▒░·····░·░··▒░··░░···········░�
 [work email]     paraspandey806@gmail.com
 ```
 
-<sub>auto-generated from the GitHub API · 2026-11-26 06:24 UTC</sub>
+<sub>auto-generated from the GitHub API · 2026-11-26 20:48 UTC</sub>
