@@ -42,7 +42,7 @@ $ cat about.txt
 ```text
 ┌───────────────────┬───────────────────┐
 │ repos       54    │ followers   15    │
-│ stars       7     │ following   15    │
+│ stars       8     │ following   15    │
 │ on GitHub   2.3y  │ updated  11-27    │
 └───────────────────┴───────────────────┘
 ```
@@ -65,10 +65,10 @@ TeX               █░░░░░░░░░░░░░░░░░░░�
 ║ REPO                 ║ LANG             ║ STAR  ║ ABOUT                                        ║
 ╠══════════════════════╬══════════════════╬═══════╬══════════════════════════════════════════════╣
 ║ Relay                ║ Go               ║ ★ 5   ║ Relay is a terminal-native download manager  ║
+║ regrip               ║ Python           ║ ★ 1   ║ Catch breaking MCP tool changes before they  ║
 ║ Kronos               ║ TypeScript       ║ ★ 1   ║ Kronos : Light weight task orchestrator      ║
 ║ nn-from-zero         ║ Jupyter Notebook ║ ★ 1   ║ Build a Neural Network from scratch in Pytho ║
 ║ Paraspandey-debugs   ║ Python           ║ ★ 0   ║ Config files for my GitHub profile.          ║
-║ regrip               ║ Python           ║ ★ 0   ║ Catch breaking MCP tool changes before they  ║
 ║ MedTour              ║ TypeScript       ║ ★ 0   ║                                              ║
 ╚══════════════════════╩══════════════════╩═══════╩══════════════════════════════════════════════╝
 ```
@@ -76,7 +76,7 @@ TeX               █░░░░░░░░░░░░░░░░░░░�
 ### `$ github --activity`
 
 ```text
-596 contributions in the last year
+603 contributions in the last year
 
 Sun ··▓·▒▒··········░░·░░▓·······░░···░·░··░░······░·····
 Mon ····░·░········░·····░░░······░·················░·░░·
@@ -96,4 +96,4 @@ Sat ···▒░·····░·░··▒░··░░···········░�
 [work email]     paraspandey806@gmail.com
 ```
 
-<sub>auto-generated from the GitHub API · 2026-11-27 06:13 UTC</sub>
+<sub>auto-generated from the GitHub API · 2026-11-27 20:34 UTC</sub>
