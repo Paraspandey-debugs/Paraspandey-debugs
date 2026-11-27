@@ -43,7 +43,7 @@ $ cat about.txt
 ┌───────────────────┬───────────────────┐
 │ repos       54    │ followers   15    │
 │ stars       7     │ following   15    │
-│ on GitHub   2.3y  │ updated  11-26    │
+│ on GitHub   2.3y  │ updated  11-27    │
 └───────────────────┴───────────────────┘
 ```
 
@@ -67,8 +67,8 @@ TeX               █░░░░░░░░░░░░░░░░░░░�
 ║ Relay                ║ Go               ║ ★ 5   ║ Relay is a terminal-native download manager  ║
 ║ Kronos               ║ TypeScript       ║ ★ 1   ║ Kronos : Light weight task orchestrator      ║
 ║ nn-from-zero         ║ Jupyter Notebook ║ ★ 1   ║ Build a Neural Network from scratch in Pytho ║
-║ regrip               ║ Python           ║ ★ 0   ║ Catch breaking MCP tool changes before they  ║
 ║ Paraspandey-debugs   ║ Python           ║ ★ 0   ║ Config files for my GitHub profile.          ║
+║ regrip               ║ Python           ║ ★ 0   ║ Catch breaking MCP tool changes before they  ║
 ║ MedTour              ║ TypeScript       ║ ★ 0   ║                                              ║
 ╚══════════════════════╩══════════════════╩═══════╩══════════════════════════════════════════════╝
 ```
@@ -76,14 +76,14 @@ TeX               █░░░░░░░░░░░░░░░░░░░�
 ### `$ github --activity`
 
 ```text
-577 contributions in the last year
+596 contributions in the last year
 
 Sun ··▓·▒▒··········░░·░░▓·······░░···░·░··░░······░·····
 Mon ····░·░········░·····░░░······░·················░·░░·
 Tue ····░·░········░·░·········░··░·░···░▒····░·····░░···
 Wed ·······░·······░░·····░····░·░░█····░·░·░·░··········
 Thu ···░░░░········░░··█░·········▒░····▒░▒···░░····░░░▓█
-Fri ···▓▒·░··░·····░░···▓░········░░··░·░▒·············░ 
+Fri ···▓▒·░··░·····░░···▓░········░░··░·░▒·············░▓
 Sat ···▒░·····░·░··▒░··░░···········░░·░···░·······░··▒░ 
 ```
 
@@ -96,4 +96,4 @@ Sat ···▒░·····░·░··▒░··░░···········░�
 [work email]     paraspandey806@gmail.com
 ```
 
-<sub>auto-generated from the GitHub API · 2026-11-26 20:48 UTC</sub>
+<sub>auto-generated from the GitHub API · 2026-11-27 06:13 UTC</sub>
